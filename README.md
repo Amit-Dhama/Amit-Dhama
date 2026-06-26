@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Amit Dhama
 
 💻 Second-Year B.Tech (CSE) Student | AKTU Student | B.Tech CSE’ 29 | Building Skills in Coding, Development & Research  
-🌐 Aspiring Web Developer | Java Enthusiast | Open Source Contributor  
+🌐 Aspiring Web Developer | Java Enthusiast | Open Source Contributor | DSA Learning  
 🎯 Focused on PHP, WordPress, JavaScript, and full-stack web development
 
 ## 🚀 Skills & Tools
