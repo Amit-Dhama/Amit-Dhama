@@ -1,4 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Amit Dhama
+
+💻 Second-Year B.Tech (CSE) Student | AKTU Student | B.Tech CSE’ 29 | Building Skills in Coding, Development & Research  
+🌐 Aspiring Web Developer | Java Enthusiast | Open Source Contributor  
+🎯 Focused on PHP, WordPress, JavaScript, and full-stack web development
+
+## 🚀 Skills & Tools
+- **Languages:** C-(Programming Language), Java, JavaScript, HTML, CSS, MySQL  
+- **Tools:** Git, GitHub, VS Code  
+
+## 🌱 Currently Learning
+- PHP & WordPress development  
+- Advanced Web Design Principles  
+- Making real contributions to open-source projects
+
+## 🤝 Looking to Collaborate On
+- Web development projects (Frontend/Backend)  
+- WordPress-based tools/themes/plugins  
+- Open-source contributions  
+
+## 📫 Connect With Me
+📧 amitdhama2007@gmail.com  
+📧 amitdhama20071@outlook.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/amit-dhama-648586371)
+
+---
+
+⚡ **Fun Fact:** I love solving real-world coding challenges and reading tech blogs & fiction during downtime.
 
 <!--
 **Amit-Dhama/Amit-Dhama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
